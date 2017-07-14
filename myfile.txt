@@ -3,3 +3,4 @@ and now I'm on develop branch
 I'm on the feature ReadmeAdd feature
 Let's merge with develop!
 Now Merge with a new file added
+this is the info used for resolving the hotfix
