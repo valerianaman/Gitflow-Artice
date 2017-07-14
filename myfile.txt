@@ -1,3 +1,5 @@
 this is my working file
 and now I'm on develop branch
 I'm on the feature ReadmeAdd feature
+Let's merge with develop!
+Now Merge with a new file added
